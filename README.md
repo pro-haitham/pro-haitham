@@ -13,27 +13,27 @@
  </h1> <p align="center"> <img src="https://img.shields.io/badge/Focus-Cybersecurity-green?style=for-the-badge&logo=hackaday" /> <img src="https://img.shields.io/badge/Languages-PHP%20%7C%20Python%20%7C%20JS-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge&logo=mysql" /> <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-grey?style=for-the-badge&logo=linux" /> </p>
 🧠 About Me
 
-💻 Cybersecurity student passionate about secure web development and ethical hacking.
-🛠 I build tools that mix cryptography, authentication, and modern web design.
-🧩 Currently improving my backend security and threat analysis skills.
+ Cybersecurity student passionate about secure web development and ethical hacking.
+ I build tools that mix cryptography, authentication, and modern web design.
+ Currently improving my backend security and threat analysis skills.
 
 “I don’t just learn security — I build it.”
 
 ⚙️ Tech Stack
 Category	Technologies
-💬 Languages	PHP, Python, JavaScript, SQL, HTML, CSS
-🧰 Frameworks / Tools	WAMP / XAMPP, Flask, Bootstrap, OpenSSL
-🔒 Security Skills	AES-GCM, RSA-OAEP, Hashing, Sanitization, OWASP
-🧠 Other	Git, Linux, Burp Suite, Wireshark
-🚀 Projects
+ Languages	PHP, Python, JavaScript, SQL, HTML, CSS
+ Frameworks / Tools	WAMP / XAMPP, Flask, Bootstrap, OpenSSL
+ Security Skills	AES-GCM, RSA-OAEP, Hashing, Sanitization, OWASP
+ Other	Git, Linux, Burp Suite, Wireshark
+ Projects
 
-🧩 Login System
+ Login System
  — Secure login with rate-limiting & hashing
-🗂️ Notes App
+ Notes App
  — CRUD app with authentication
-🔐 File Encryptor
+ File Encryptor
  — AES + RSA hybrid encryption
-💾 Vault
+ Vault
  — Password vault using client-side encryption
 
 📊 GitHub Stats
@@ -51,4 +51,4 @@ Category	Technologies
 📧 Email: mr.hiathem@gmail.com
 🌐 GitHub: @pro-haitham
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=pro-haitham&label=Profile%20Views&color=00ffaa&style=flat-square" alt="Profile views" /> </p> <p align="center"> <b>⚡ “Code like a developer. Think like a hacker.” ⚡</b> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=pro-haitham&label=Profile%20Views&color=00ffaa&style=flat-square" alt="Profile views" /> </p> <p align="center"> <b>⚡ “Code like a developer. Think like a hacker.” </b> </p>
