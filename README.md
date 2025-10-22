@@ -3,7 +3,10 @@
 </p>
 
 
-<!-- Cybersecurity Themed GitHub Profile README --> <h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Haitham+👋;Cybersecurity+Student;Web+Developer+%26+Coder" alt="Typing SVG" />
+
+<!-- Cybersecurity Themed GitHub Profile README -->
+
+<h1 align="center"> <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFAA&center=true&vCenter=true&width=500&lines=Hey+there!+I'm+Haitham+👋;Cybersecurity+Student;Web+Developer+%26+Coder" alt="Typing SVG" />
  </h1> <p align="center"> <img src="https://img.shields.io/badge/Focus-Cybersecurity-green?style=for-the-badge&logo=hackaday" /> <img src="https://img.shields.io/badge/Languages-PHP%20%7C%20Python%20%7C%20JS-blue?style=for-the-badge" /> <img src="https://img.shields.io/badge/Database-MySQL-orange?style=for-the-badge&logo=mysql" /> <img src="https://img.shields.io/badge/OS-Windows%20%7C%20Linux-grey?style=for-the-badge&logo=linux" /> </p>
 🧠 About Me
 
