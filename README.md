@@ -17,7 +17,6 @@
  I build tools that mix cryptography, authentication, and modern web design.
  Currently improving my backend security and threat analysis skills.
 
-“I don’t just learn security — I build it.”
 
 ⚙️ Tech Stack
 Category	Technologies
