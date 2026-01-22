@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pro-haitham/pro-haitham/main/banner.png" width="100%" alt="Haitham Cyber Banner" />
+  <img src="https://raw.githubusercontent.com/pro-haitham/pro-haitham/main/business-card.png" />
 </p>
 
 
