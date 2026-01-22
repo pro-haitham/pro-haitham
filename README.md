@@ -1,6 +1,3 @@
-![Business Card](card-github.png)
-
-
 <p align="center">
   <img src="./Card.png" width="500" alt="Business Card" />
 </p>
