@@ -1,4 +1,4 @@
-![Business Card](card-fixed.png)
+![Business Card](card-github.png)
 
 
 <p align="center">
