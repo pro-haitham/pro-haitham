@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pro-haitham/pro-haitham/main/Card.png" width="500" />
+  <img src="./Card.png" width="500" alt="Business Card" />
 </p>
+
 
 
 
