@@ -17,37 +17,29 @@
 
 ## 🧠 About Me
 
-- Cybersecurity student passionate about secure web development and ethical hacking.
-- I build tools that mix cryptography, authentication, and modern web design.
-- Currently improving my backend security, threat analysis, and full-stack development skills.
+- 💻 Cybersecurity student passionate about secure web development and ethical hacking.
+- 🛡️ I build tools that mix cryptography, authentication, and modern web design.
+- 🚀 Currently improving my backend security, threat analysis, and full-stack development skills.
 
 ---
 
 ## ⚙️ Tech Stack
 
-| Category | Technologies |
-| :--- | :--- |
-| **Languages** | PHP, Python, JavaScript, SQL, HTML, CSS |
-| **Frameworks / Tools** | XAMPP / WAMP, Flask, Bootstrap, OpenSSL |
-| **Security Skills** | AES-GCM, RSA-OAEP, Hashing, Sanitization, OWASP |
-| **Other** | Git, Linux, Burp Suite, Wireshark |
+- **Languages:** PHP, Python, JavaScript, SQL, HTML, CSS
+- **Frameworks & Environments:** XAMPP / WAMP, Flask, Bootstrap, OpenSSL
+- **Security Concepts:** AES-GCM, RSA-OAEP, Hashing, Sanitization, OWASP
+- **Tools & OS:** Git, Linux, Burp Suite, Wireshark
 
 ---
 
 ## 🚀 Featured Projects
 
-- **[POS-sys](https://github.com/pro-haitham/POS-sys)**
-  — Point of Sale system built for efficient management and tracking.
-- **[Modern-Arabic-RTL-Pharmacy-Website-Template](https://github.com/pro-haitham/Modern-Arabic-RTL-Pharmacy-Website-Template)**
-  — A responsive, RTL-supported pharmacy platform template designed for local environments.
-- **[AES-RSA-Hybrid](https://github.com/pro-haitham/AES-RSA-Hybrid)**
-  — Python CLI tool for secure file encryption using AES-GCM data encryption and RSA-OAEP key wrapping.
-- **[Simple-Crypto-Web-App](https://github.com/pro-haitham/Simple-Crypto-Web-App)**
-  — Secure web application to store encrypted notes and files locally using AES-GCM.
-- **[Notes-App-with-login-CRUD](https://github.com/pro-haitham/Notes-App-with-login-CRUD)**
-  — Full-featured CRUD application equipped with user authentication.
-- **[login system](https://github.com/pro-haitham/login-system)**
-  — Secure authentication system featuring rate-limiting and secure hashing.
+- **[POS-sys](https://github.com/pro-haitham/POS-sys)** — Point of Sale system built for efficient management and tracking.
+- **[Modern-Arabic-RTL-Pharmacy-Website-Template](https://github.com/pro-haitham/Modern-Arabic-RTL-Pharmacy-Website-Template)** — Responsive, RTL-supported pharmacy platform template designed for local environments.
+- **[AES-RSA-Hybrid](https://github.com/pro-haitham/AES-RSA-Hybrid)** — Python CLI tool for secure file encryption using AES-GCM data encryption and RSA-OAEP key wrapping.
+- **[Simple-Crypto-Web-App](https://github.com/pro-haitham/Simple-Crypto-Web-App)** — Secure web application to store encrypted notes and files locally using AES-GCM.
+- **[Notes-App-with-login-CRUD](https://github.com/pro-haitham/Notes-App-with-login-CRUD)** — Full-featured CRUD application equipped with user authentication.
+- **[login system](https://github.com/pro-haitham/login-system)** — Secure authentication system featuring rate-limiting and secure hashing.
 
 ---
 
@@ -56,9 +48,6 @@
 <p align="center"> 
   <img src="https://github-readme-stats.vercel.app/api?username=pro-haitham&show_icons=true&theme=tokyonight&hide_border=true" height="165" /> 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pro-haitham&layout=compact&theme=tokyonight&hide_border=true" height="165" /> 
-</p> 
-<p align="center"> 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pro-haitham&theme=tokyonight&hide_border=true" height="165" /> 
 </p>
 
 ---
