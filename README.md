@@ -24,7 +24,7 @@
 
 <div align="center">
 
-<!---->
+<em>Senior IT & Cybersecurity student, full-stack engineer, and security tooling builder crafting robust systems from the terminal up.</em>
 
 </div>
 
@@ -36,20 +36,20 @@
 
 **🧠 Languages**
 
-<img src="https://skillicons.dev/icons?i=py,c,java,js,html,css,r&theme=dark" />
+<img src="https://skillicons.dev/icons?i=py,php,js,html,css,dart,c,java&theme=dark" />
 
 **🌐 Frameworks & Libraries**
 
-<img src="https://skillicons.dev/icons?i=react,flask,django,nodejs,tailwind,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,react,flutter,tailwind,bootstrap&theme=dark" />
 
-<em>✏️ The tools you reach for, in a sentence.</em>
+<em>✏️ Security, Scripting, and Systems Utilities</em>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" />
-<img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white" />
-<img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
+<img src="https://img.shields.io/badge/Metasploit-1C1C1C?style=for-the-badge&logo=metasploit&logoColor=white" />
+<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41" />
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
+<img src="https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white" />
 
 **🗄️ Databases & DevOps**
 
@@ -116,60 +116,9 @@
 ## 🎯 `> cat current_quests.log`
 
 ```diff
-+ [ACTIVE]    🚀 Building: Data Science & ML Projects
-+ [ACTIVE]    📚 Learning: AI/ML, Deep Learning, React
-+ [ACTIVE]    💻 Grinding: DSA & Competitive Programming
-! [PENDING]   📊 Goal: Publish research in Data Science
-! [PENDING]   🌐 Shipping: Full-stack data-driven web apps
-- [LOCKED]    👑 Boss Fight: Land a dream role in Data Science / AI
-```
-
-<div align="center">
-
-| 🕹️ Stat | ▰▰▰▰▰▰▰▰▱▱ | Level |
-|:--|:--|:--|
-| 🐍 Python | `████████░░` | **80%** |
-| 📊 Data Science | `███████░░░` | **70%** |
-| 🧠 AI / ML | `██████░░░░` | **60%** |
-| ⚛️ React | `██████░░░░` | **60%** |
-| 🏗️ DSA | `███████░░░` | **70%** |
-| ☕ Caffeine | `██████████` | **MAX** |
-
-</div>
-
----
-
-## 🎧 `> now_playing --mode=focus`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/♪_Lo--Fi_/_Synthwave_/_Focus_Beats-0D1117?style=for-the-badge&logo=spotify&logoColor=00FF41&labelColor=0D1117&color=00FF41" />
-
-</div>
-
----
-
-## 📡 `> ping --connect`
-
-<div align="center">
-
-<a href="https://github.com/pro-haitham"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=00F0FF" /></a>
-<a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=00FF41" /></a>
-<a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=0A66C2" /></a>
-<a href="https://www.instagram.com/not_avi_20/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F&color=E4405F" /></a>
-
-<br/><br/>
-
-```bash
-$ echo "There is no spoon. Only data." | lolcat
-$ python3 -c "print('Hello, World! 🧠')"
-$ exit 0   # GAME OVER? Nah — INSERT COIN TO CONTINUE 🪙
-```
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=140&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=26&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
-
-</div>
-
-<!-- badge-auto: badge-pr-1 pr1 -->
-
-<p align="center"><sub>Al-haitham · <a href="https://www.gitskins.com/readme-generator?template=community-night-shift-zckz">Night Shift</a> template by <a href="https://www.gitskins.com/creators/Avijit010325">@Avijit010325</a> · generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
++ [ACTIVE]    🚀 Building: Full-Stack SaaS Platforms & ERP Systems
++ [ACTIVE]    🔒 Researching: Cryptography & Application Security
++ [ACTIVE]    💻 Grinding: Secure Coding & System Architecture
+! [PENDING]   🛡️ Goal: Advanced Vulnerability Assessment & Mitigation
+! [PENDING]   🌐 Shipping: Secure Multi-Tenant Solutions
+- [LOCKED]    👑 Boss Fight: Lead Cybersecurity Architect & Developer
