@@ -1,124 +1,102 @@
 <div align="center">
 
-<!-- Animated Living Identity Banner -->
-<!---->
-
-<br/>
-
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=22&duration=3000&pause=800&color=00FF41&center=true&vCenter=true&random=false&width=750&height=60&lines=Hi!+I'm+pro-haitham+%F0%9F%91%8B" alt="Typing SVG" />
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=pro-haitham&label=PLAYER+VIEWS&color=00FF41&style=for-the-badge&labelColor=0D1117" alt="views"/>
-<img src="https://img.shields.io/github/followers/pro-haitham?label=ALLIES&style=for-the-badge&color=00F0FF&labelColor=0D1117&logo=github" alt="followers"/>
-<img src="https://img.shields.io/github/stars/pro-haitham?label=LOOT&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
-
-</div>
-
----
-
-## 🐱 About Me
-
-<div align="center">
-
-<em>Senior IT & Cybersecurity student, full-stack engineer, and security tooling builder crafting robust systems from the terminal up.</em>
-
-</div>
-
-
-
-## ⚔️ `> cat inventory.txt` — Skill Tree
-
-<div align="center">
-
-**🧠 Languages**
-
-<img src="https://skillicons.dev/icons?i=py,php,js,html,css,dart,c,java&theme=dark" />
-
-**🌐 Frameworks & Libraries**
-
-<img src="https://skillicons.dev/icons?i=nodejs,express,react,flutter,tailwind,bootstrap&theme=dark" />
-
-<em>✏️ Security, Scripting, and Systems Utilities</em>
-
-<img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-<img src="https://img.shields.io/badge/Metasploit-1C1C1C?style=for-the-badge&logo=metasploit&logoColor=white" />
-<img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41" />
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-<img src="https://img.shields.io/badge/Git_Bash-F05032?style=for-the-badge&logo=git&logoColor=white" />
-
-**🗄️ Databases & DevOps**
-
-<img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,git,linux,docker,vscode&theme=dark" />
-
-**🧩 DSA & Problem Solving**
-
-<img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-<img src="https://img.shields.io/badge/HackerRank-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black" />
-<img src="https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" />
-<img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" />
-
-</div>
-
----
-
-## 📊 `> ./stats --player=pro-haitham`
-
-<div align="center">
-
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pro-haitham&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00FF41&icon_color=00F0FF&text_color=C9D1D9&border_color=00FF41&ring_color=FF00E5&include_all_commits=true&count_private=true&custom_title=%F0%9F%8E%AE%20PLAYER%20STATS" />
-<img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pro-haitham&layout=compact&hide_border=false&bg_color=0D1117&title_color=00FF41&text_color=C9D1D9&border_color=00F0FF&langs_count=8&custom_title=%E2%9A%94%EF%B8%8F%20WEAPON%20MASTERY" />
-
-<img src="https://streak-stats.demolab.com?user=pro-haitham&theme=dark&background=0D1117&border=00FF41&ring=FF00E5&fire=FF00E5&currStreakNum=00FF41&sideNums=00F0FF&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=00FF41" />
-
-</div>
-
----
-
-## 🏆 `> unlock --achievements`
-
-<div align="center">
-
-<img src="https://github-trophies.vercel.app/?username=pro-haitham&theme=matrix&no-frame=true&no-bg=true&margin-w=12&row=1&column=7" />
-
-</div>
-
----
-
-## 📈 `> tail -f /var/log/commits.log`
-
-<div align="center">
-
-<!---->
-
-</div>
-
----
-
-## 🐍 `> ./snake.exe --eat=contributions`
-
-<div align="center">
+<p><sub>WOW PROFILE · PRO-HAITHAM · LIVE</sub></p>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://www.gitskins.com/api/section/heatmap?username=pro-haitham&theme=github-dark&mode=dark&style=snake" />
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=pro-haitham&theme=github-dark&mode=dark&style=snake" />
-  <img alt="snake eating contributions" src="https://www.gitskins.com/api/section/heatmap?username=pro-haitham&theme=github-dark&mode=dark&style=snake" />
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=living-identity&label=Al-haitham&v=wow-living-identity-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/hero?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=living-identity&label=Al-haitham&v=wow-living-identity-1&mode=dark" width="100%" alt="Al-haitham animated Living Identity portrait and ASCII name" />
 </picture>
-
+<p><strong>Software & Security Engineer · IT & Cybersecurity</strong></p>
+<p>Building secure, high-performance web applications and system tooling.</p>
+<p><a href="https://github.com/pro-haitham">GitHub</a></p>
 </div>
 
----
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
-## 🎯 `> cat current_quests.log`
+<h2>Identity, with signal</h2>
 
-```diff
-+ [ACTIVE]    🚀 Building: Full-Stack SaaS Platforms & ERP Systems
-+ [ACTIVE]    🔒 Researching: Cryptography & Application Security
-+ [ACTIVE]    💻 Grinding: Secure Coding & System Architecture
-! [PENDING]   🛡️ Goal: Advanced Vulnerability Assessment & Mitigation
-! [PENDING]   🌐 Shipping: Secure Multi-Tenant Solutions
-- [LOCKED]    👑 Boss Fight: Lead Cybersecurity Architect & Developer
+<table width="100%" style="display:table;width:100%;table-layout:fixed;">
+<tr>
+<td width="62%" valign="top"><p>Developing robust full-stack platforms with security embedded at every layer.</p><p><strong>Focus:</strong> `Cybersecurity` · `PHP` · `Python` · `JavaScript` · `Dart`</p><p><sub>Thoughtful architecture, secure coding, and useful open-source solutions.</sub></p></td>
+<td width="38%" valign="top"><p><code>LIVE SIGNAL</code></p><p><strong>18</strong> repos<br /><strong>23</strong> stars<br /><strong>135</strong> contributions<br /><strong>6</strong> followers</p></td>
+</tr>
+</table>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>What moves the work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&items=Security%20Tooling%3A%3ACurrent%20focus%7CFull-Stack%20Apps%3A%3AIn%20the%20build%20queue%7CAPI%20Architecture%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/highlights?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&items=Security%20Tooling%3A%3ACurrent%20focus%7CFull-Stack%20Apps%3A%3AIn%20the%20build%20queue%7CAPI%20Architecture%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Al-haitham animated profile highlights" />
+</picture>
+
+<p align="center"><sub>Positioning is useful when the proof is close behind it.</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>The tools behind the signal</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stack?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Al-haitham animated technology stack" />
+</picture>
+
+<p align="center"><sub>PHP · Python · JavaScript · HTML/CSS · MySQL · Linux · Chosen for efficiency and security</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Built, shipped, shared</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&repos=pro-haitham%2FSimple-Crypto-Web-App%2Cpro-haitham%2Flogin_system%2Cpro-haitham%2FNotes-App-with-login-CRUD-%2Cpro-haitham%2FWeather-App&variant=wow&v=wow-projects-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&repos=pro-haitham%2FSimple-Crypto-Web-App%2Cpro-haitham%2Flogin_system%2Cpro-haitham%2FNotes-App-with-login-CRUD-%2Cpro-haitham%2FWeather-App&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Al-haitham animated project constellation" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&repos=pro-haitham%2FSimple-Crypto-Web-App%2Cpro-haitham%2Flogin_system%2Cpro-haitham%2FNotes-App-with-login-CRUD-%2Cpro-haitham%2FWeather-App&variant=wow-timeline&v=wow-timeline-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/projects?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&repos=pro-haitham%2FSimple-Crypto-Web-App%2Cpro-haitham%2Flogin_system%2Cpro-haitham%2FNotes-App-with-login-CRUD-%2Cpro-haitham%2FWeather-App&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Al-haitham animated project launch timeline" />
+</picture>
+
+<table width="100%">
+<tr>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/pro-haitham/Simple-Crypto-Web-App">Simple-Crypto-Web-App</a></strong></p><p>Secure Vault: Client-side AES encryption for stored notes and files using a master password.</p><p><sub>JavaScript · ⭐ 2</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/pro-haitham/login_system">login_system</a></strong></p><p>Secure authentication system featuring hashed passwords and protected user sessions.</p><p><sub>PHP · ⭐ 3</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/pro-haitham/Notes-App-with-login-CRUD-">Notes-App-with-login-CRUD-</a></strong></p><p>Full-stack notes platform implementing full CRUD operations behind authenticated user access.</p><p><sub>PHP · ⭐ 2</sub></p></td>
+<td width="25%" valign="top"><p><strong><a href="https://github.com/pro-haitham/Weather-App">Weather-App</a></strong></p><p>Dynamic frontend web app integrating external APIs for real-time weather metrics.</p><p><sub>JavaScript · ⭐ 1</sub></p></td>
+</tr>
+</table>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>Momentum, made visible</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/stats?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Al-haitham animated GitHub signal" />
+</picture>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<h2>The trail behind the work</h2>
+
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/heatmap?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Al-haitham contribution energy field" />
+</picture>
+
+<p align="center"><sub>1 day current streak · 37 active days</sub></p>
+
+<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+
+<div align="center">
+<p><sub>KEEP THE SIGNAL MOVING</sub></p>
+<h2>Make something worth noticing</h2>
+<p>I like working with people who care about security, craftsmanship, and shipping robust solutions.</p>
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-social-1&mode=light" />
+  <img src="https://www.gitskins.com/api/section/social?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Al-haitham contact links" />
+</picture>
+<p><a href="https://github.com/pro-haitham">GitHub</a></p>
+<p><sub>Al-haitham · Wow Profile generated with <a href="https://www.gitskins.com/readme-generator">GitSkins</a></sub></p>
+</div>
