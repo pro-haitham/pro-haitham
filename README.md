@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><sub>WOW PROFILE · PRO-HAITHAM · LIVE SIGNAL</sub></p>
+<p><sub> PRO-HAITHAM · LIVE SIGNAL</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=living-identity&label=Al-haitham&v=wow-living-identity-1&mode=light" />
