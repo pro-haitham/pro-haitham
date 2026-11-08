@@ -46,7 +46,7 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-<h3>🚀 Current Focus</h3>
+<h3> Current Focus</h3>
 <ul>
   <li><strong>Enterprise Systems:</strong> Scaling multi-tenant POS and localized ERP solutions.</li>
   <li><strong>Application Security:</strong> Developing client-side zero-knowledge file encryption utilities.</li>
@@ -54,7 +54,7 @@
 </ul>
 </td>
 <td width="33%" valign="top">
-<h3>🎯 Upcoming Quests</h3>
+<h3> Upcoming Quests</h3>
 <ul>
   <li><strong>Mobile Ecosystems:</strong> Expanding cross-platform apps using Flutter and state management (Riverpod).</li>
   <li><strong>Hardware & Forensics:</strong> Researching edge security models and system artifact analysis.</li>
@@ -62,7 +62,7 @@
 </ul>
 </td>
 <td width="33%" valign="top">
-<h3>👑 Long-Term Vision</h3>
+<h3> Long-Term Vision</h3>
 <ul>
   <li><strong>Lead Security Architect:</strong> Designing resilient enterprise infrastructure.</li>
   <li><strong>Open Source Security:</strong> Publishing reusable cryptographic modules and developer tooling.</li>
