@@ -177,5 +177,5 @@
 </picture>
 
 <p><a href="https://github.com/pro-haitham">GitHub Profile</a></p>
-<p><sub>Al-haitham · Generated with GitSkins</sub></p>
+<p><sub>Al-haitham </sub></p>
 </div>
