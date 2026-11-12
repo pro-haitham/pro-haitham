@@ -1,73 +1,82 @@
 <div align="center">
 
-<!-- Free Animated Cyberpunk Hero Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,36,48&height=220&section=header&text=pro-haitham&fontSize=50&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Software%20&%20Security%20Engineer%20|%20IT%20&%20Cybersecurity&descSize=16&descColor=00FF41" width="100%" alt="Animated Header" />
+<!-- Kinetic Hero Banner with Blinking Cyber-Accent -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0a2e36,100:0D1117&height=240&section=header&text=Al-haitham&fontSize=64&fontColor=00F0FF&animation=blinking&fontAlignY=42&desc=ARCHITECTING%20RESILIENT%20SYSTEMS%20%26%20OFFENSIVE%20SECURITY&descSize=15&descColor=00FF41&descAlignY=66" width="100%" alt="Al-haitham Header" />
+
+<!-- Dynamic Terminal Typing Loop -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=800&height=45&lines=%3E_Security+is+not+a+patch.+It+is+the+architecture.;%3E_Building+zero-knowledge+tools+%26+full-stack+platforms.;%3E_Turning+complex+problems+into+clean%2C+verifiable+code." alt="Typing SVG" />
+</a>
+
+<br/>
 
 <p>
-  <img src="https://komarev.com/ghpvc/?username=pro-haitham&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge&labelColor=0D1117" alt="views"/>
-  <img src="https://img.shields.io/github/followers/pro-haitham?label=ALLIES&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github" alt="followers"/>
+  <img src="https://komarev.com/ghpvc/?username=pro-haitham&label=SIGNAL+VIEWS&color=00F0FF&style=for-the-badge&labelColor=0D1117" alt="views"/>
+  <img src="https://img.shields.io/github/followers/pro-haitham?label=NETWORK&style=for-the-badge&color=00FF41&labelColor=0D1117&logo=github" alt="followers"/>
   <img src="https://img.shields.io/github/stars/pro-haitham?label=STARS&style=for-the-badge&color=FF00E5&labelColor=0D1117&logo=github" alt="stars"/>
 </p>
 
 </div>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+<p align="center"><sub>✦ ────────────────────────────────────────────────────────── ✦</sub></p>
 
-<h2>Identity & Architecture</h2>
+<h2>01 // Philosophy & Engineering Identity</h2>
 
 <table width="100%" style="display:table;width:100%;table-layout:fixed;">
 <tr>
-<td width="62%" valign="top">
-<p>Developing robust full-stack software and enterprise applications with end-to-end security baked into the design layer.</p>
-<p><strong>Core Focus:</strong> <code>Secure Web Systems</code> · <code>PHP & Node.js</code> · <code>Python</code> · <code>Cryptography</code> · <code>Flutter</code></p>
-<p><sub>Focused on scalable database architectures, secure user authentication, and performance-driven tools.</sub></p>
+<td width="64%" valign="top">
+<p><strong>Code is liability until it is tested; software is fragile until it is hardened.</strong></p>
+<p>As an IT & Cybersecurity engineer, I build at the intersection of full-stack software development and defensive architecture. Whether designing client-side cryptographic vaults, multi-tenant business systems, or forensic analysis workflows, my priority is shipping software that respects user privacy and withstands real-world scrutiny.</p>
+<p><strong>Core Domains:</strong> <code>Application Security</code> · <code>Cryptography</code> · <code>Full-Stack Web</code> · <code>Systems & Forensics</code></p>
 </td>
-<td width="38%" valign="top">
-<p><code>LIVE SIGNAL</code></p>
-<p><strong>20</strong> Repositories<br />
-<strong>56</strong> Stars Given<br />
-<strong>135+</strong> Contributions<br />
-<strong>6</strong> Followers</p>
+<td width="36%" valign="top">
+<p><code>TELEMETRY // PRO-HAITHAM</code></p>
+<p>
+  <strong>Focus:</strong> Security-First Engineering<br />
+  <strong>Methodology:</strong> Agile & Iterative<br />
+  <strong>Environment:</strong> Linux / Windows Dual-Rig<br />
+  <strong>Status:</strong> Shipping & Auditing
+</p>
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+<p align="center"><sub>✦ ────────────────────────────────────────────────────────── ✦</sub></p>
 
-<h2>Strategic Roadmap & Build Queue</h2>
+<h2>02 // Strategic Roadmap & Build Queue</h2>
 
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-<h3>🚀 Current Focus</h3>
+<h3>⚡ Active Execution</h3>
 <ul>
-  <li><strong>Enterprise Systems:</strong> Scaling multi-tenant POS and localized ERP solutions.</li>
-  <li><strong>Application Security:</strong> Developing client-side zero-knowledge file encryption utilities.</li>
-  <li><strong>Full-Stack Architecture:</strong> Building unified RESTful APIs with Python FastAPI and Node.js.</li>
+  <li><strong>Zero-Knowledge Tooling:</strong> Refining hybrid encryption utilities (AES-GCM / RSA) for local and web-based file protection.</li>
+  <li><strong>Enterprise Platforms:</strong> Architecting scalable, role-based ERP and inventory systems with strict access control.</li>
+  <li><strong>Defensive APIs:</strong> Hardening backend services against injection, path traversal, and broken authentication.</li>
 </ul>
 </td>
 <td width="33%" valign="top">
-<h3>🎯 Upcoming Quests</h3>
+<h3>🧭 Next Horizons</h3>
 <ul>
-  <li><strong>Mobile Ecosystems:</strong> Expanding cross-platform apps using Flutter and state management (Riverpod).</li>
-  <li><strong>Hardware & Forensics:</strong> Researching edge security models and system artifact analysis.</li>
-  <li><strong>Cloud & DevOps:</strong> Containerizing microservices using Docker and automated CI/CD pipelines.</li>
+  <li><strong>Cross-Platform Mobile:</strong> Building reactive, state-driven client applications with Flutter and FastAPI.</li>
+  <li><strong>Digital Forensics & Analysis:</strong> Automating Windows artifact parsing and incident timeline reconstruction.</li>
+  <li><strong>Containerized Workflows:</strong> Deploying isolated, reproducible microservices via Docker and Linux hardening.</li>
 </ul>
 </td>
 <td width="33%" valign="top">
-<h3>👑 Long-Term Vision</h3>
+<h3>🏛️ Long-Term Mandate</h3>
 <ul>
-  <li><strong>Lead Security Architect:</strong> Designing resilient enterprise infrastructure.</li>
-  <li><strong>Open Source Security:</strong> Publishing reusable cryptographic modules and developer tooling.</li>
-  <li><strong>Research & Auditing:</strong> Conducting comprehensive vulnerability assessments and code audits.</li>
+  <li><strong>Security Architecture:</strong> Bridging the gap between rapid product engineering and rigorous threat modeling.</li>
+  <li><strong>Open-Source Cryptography:</strong> Contributing transparent, auditable security primitives for everyday developers.</li>
+  <li><strong>Continuous Auditing:</strong> Treating every system I build as an adversarial environment from day one.</li>
 </ul>
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+<p align="center"><sub>✦ ────────────────────────────────────────────────────────── ✦</sub></p>
 
-<h2>The Tech Arsenal</h2>
+<h2>03 // The Technical Arsenal</h2>
 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,php,js,dart,html,css,nodejs,flutter,mysql,postgres,git,linux,docker,vscode&theme=dark" />
@@ -79,11 +88,11 @@
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
 </div>
 
-<p align="center"><sub>Chosen for security, performance, and real-world reliability.</sub></p>
+<p align="center"><sub>Tools selected for deterministic behavior, auditability, and speed.</sub></p>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+<p align="center"><sub>✦ ────────────────────────────────────────────────────────── ✦</sub></p>
 
-<h2>Built, Shipped, Shared</h2>
+<h2>04 // Selected Works & Proof of Concept</h2>
 
 <div align="center">
   <a href="https://github.com/pro-haitham/Simple-Crypto-Web-App">
@@ -107,65 +116,53 @@
 <tr>
 <td width="25%" valign="top">
   <p><strong><a href="https://github.com/pro-haitham/Simple-Crypto-Web-App">Simple-Crypto-Web-App</a></strong></p>
-  <p>Secure Vault implementation featuring client-side AES encryption for stored notes and binary payload protection.</p>
-  <p><sub>JavaScript · ⭐ 2</sub></p>
+  <p>Client-side zero-knowledge vault using AES encryption to protect sensitive notes and files locally.</p>
+  <p><sub>JavaScript · Cryptography</sub></p>
 </td>
 <td width="25%" valign="top">
   <p><strong><a href="https://github.com/pro-haitham/login_system">login_system</a></strong></p>
-  <p>Modular PHP authentication boilerplate implementing secure password hashing, CSRF tokens, and session defense.</p>
-  <p><sub>PHP · ⭐ 3</sub></p>
+  <p>Hardened authentication foundation featuring salted password hashing, session integrity, and CSRF defense.</p>
+  <p><sub>PHP · Access Control</sub></p>
 </td>
 <td width="25%" valign="top">
   <p><strong><a href="https://github.com/pro-haitham/Notes-App-with-login-CRUD-">Notes-App-with-login-CRUD-</a></strong></p>
-  <p>Full-stack web dashboard managing persistent data models via secured CRUD endpoints and user access roles.</p>
-  <p><sub>PHP · ⭐ 2</sub></p>
+  <p>Authenticated full-stack workspace isolating user data models behind strict session validation.</p>
+  <p><sub>PHP · Full-Stack</sub></p>
 </td>
 <td width="25%" valign="top">
   <p><strong><a href="https://github.com/pro-haitham/Weather-App">Weather-App</a></strong></p>
-  <p>Asynchronous frontend web client consuming live REST APIs for structured climate data visualization.</p>
-  <p><sub>JavaScript · ⭐ 1</sub></p>
+  <p>Asynchronous frontend client engineered for clean API consumption and real-time data rendering.</p>
+  <p><sub>JavaScript · REST API</sub></p>
 </td>
 </tr>
 </table>
 
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+<p align="center"><sub>✦ ────────────────────────────────────────────────────────── ✦</sub></p>
 
-<h2>Activity & Momentum</h2>
+<h2>05 // Live Telemetry & Contribution Pulse</h2>
 
 <div align="center">
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pro-haitham&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00F0FF&icon_color=00FF41&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true" />
   <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pro-haitham&layout=compact&hide_border=false&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_color=30363D&langs_count=8" />
   <br/>
   <img src="https://streak-stats.demolab.com?user=pro-haitham&theme=dark&background=0D1117&border=30363D&ring=00F0FF&fire=00FF41&currStreakNum=00F0FF&sideNums=00FF41&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
-</div>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
-
-<h2>Contribution Field</h2>
-
-<div align="center">
+  <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=pro-haitham&bg_color=0D1117&color=00F0FF&line=00FF41&point=FF00E5&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
 </div>
 
-<p align="center"><sub>Consistent shipping · Active commit log</sub></p>
-
-<p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
+<p align="center"><sub>✦ ────────────────────────────────────────────────────────── ✦</sub></p>
 
 <div align="center">
-<p><sub>CONNECT & COLLABORATE</sub></p>
-<h2>Let's build something resilient.</h2>
-<p>Open to technical collaboration on full-stack projects, cybersecurity tooling, and open-source systems.</p>
+<p><sub>ESTABLISH CONNECTION</sub></p>
+<h2>Build things that last. Break things to make them stronger.</h2>
+<p>Always open to collaborating on security tooling, backend architecture, and ambitious open-source software.</p>
 
 <p>
   <a href="https://github.com/pro-haitham"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=30363D" /></a>
   <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=30363D" /></a>
   <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=30363D" /></a>
 </p>
-
-<p><sub>Al-haitham · Built for signal, not noise</sub></p>
 </div>
 
-<!-- Footer Banner Animation -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=22&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
-</div>
+<!-- Animated Venom Footer -->
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0a2e36,100:0D1117&height=130&section=footer&text=VERIFY%20EVERYTHING%20%E2%80%A2%20TRUST%20NOTHING&fontSize=18&fontColor=00FF41&animation=twinkling&fontAlignY=65" width="100%" alt="Animated Footer" />
