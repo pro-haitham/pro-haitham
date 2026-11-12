@@ -1,13 +1,7 @@
 <div align="center">
 
-<p><sub>PRO-HAITHAM · LIVE SIGNAL</sub></p>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=750&height=70&lines=Al-haitham+%7C+Software+%26+Security+Engineer;Architecting+Secure+Full-Stack+Systems" alt="Typing SVG" />
-</a>
-
-<p><strong>Software & Security Engineer · IT & Cybersecurity</strong></p>
-<p>Architecting secure full-stack platforms, client-side cryptography, and enterprise systems.</p>
+<!-- Free Animated Cyberpunk Hero Banner -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,12,24,36,48&height=220&section=header&text=pro-haitham&fontSize=50&fontColor=00F0FF&animation=fadeIn&fontAlignY=38&desc=Software%20&%20Security%20Engineer%20|%20IT%20&%20Cybersecurity&descSize=16&descColor=00FF41" width="100%" alt="Animated Header" />
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=pro-haitham&label=PROFILE+VIEWS&color=00F0FF&style=for-the-badge&labelColor=0D1117" alt="views"/>
@@ -169,4 +163,9 @@
 </p>
 
 <p><sub>Al-haitham · Built for signal, not noise</sub></p>
+</div>
+
+<!-- Footer Banner Animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,24,30&height=120&section=footer&text=INSERT%20COIN%20TO%20CONTINUE&fontSize=22&fontColor=00FF41&animation=twinkling&fontAlignY=68" width="100%"/>
 </div>
