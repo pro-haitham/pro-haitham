@@ -2,10 +2,9 @@
 
 <p><sub>PRO-HAITHAM · LIVE SIGNAL</sub></p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=living-identity&label=Al-haitham&v=wow-living-identity-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/hero?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=living-identity&label=Al-haitham&v=wow-living-identity-1&mode=dark" width="100%" alt="Al-haitham animated Living Identity portrait and ASCII name" />
-</picture>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=750&height=70&lines=Al-haitham+%7C+Software+%26+Security+Engineer;Architecting+Secure+Full-Stack+Systems" alt="Typing SVG" />
+</a>
 
 <p><strong>Software & Security Engineer · IT & Cybersecurity</strong></p>
 <p>Architecting secure full-stack platforms, client-side cryptography, and enterprise systems.</p>
@@ -150,10 +149,9 @@
 
 <h2>Contribution Field</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/heatmap?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-heatmap-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/heatmap?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-heatmap-1&mode=dark" width="100%" alt="Al-haitham contribution energy field" />
-</picture>
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pro-haitham&bg_color=0D1117&color=00F0FF&line=00FF41&point=FF00E5&area=true&hide_border=true" width="100%" alt="Contribution Graph" />
+</div>
 
 <p align="center"><sub>Consistent shipping · Active commit log</sub></p>
 
