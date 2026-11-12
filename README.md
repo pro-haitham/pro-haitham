@@ -1,6 +1,6 @@
 <div align="center">
 
-<p><sub> PRO-HAITHAM · LIVE SIGNAL</sub></p>
+<p><sub>PRO-HAITHAM · LIVE SIGNAL</sub></p>
 
 <picture>
   <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/hero?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=living-identity&label=Al-haitham&v=wow-living-identity-1&mode=light" />
@@ -31,8 +31,8 @@
 </td>
 <td width="38%" valign="top">
 <p><code>LIVE SIGNAL</code></p>
-<p><strong>18</strong> Repositories<br />
-<strong>23</strong> Stars Earned<br />
+<p><strong>20</strong> Repositories<br />
+<strong>56</strong> Stars Given<br />
 <strong>135+</strong> Contributions<br />
 <strong>6</strong> Followers</p>
 </td>
@@ -46,7 +46,7 @@
 <table width="100%">
 <tr>
 <td width="33%" valign="top">
-<h3> Current Focus</h3>
+<h3>🚀 Current Focus</h3>
 <ul>
   <li><strong>Enterprise Systems:</strong> Scaling multi-tenant POS and localized ERP solutions.</li>
   <li><strong>Application Security:</strong> Developing client-side zero-knowledge file encryption utilities.</li>
@@ -54,7 +54,7 @@
 </ul>
 </td>
 <td width="33%" valign="top">
-<h3> Upcoming Quests</h3>
+<h3>🎯 Upcoming Quests</h3>
 <ul>
   <li><strong>Mobile Ecosystems:</strong> Expanding cross-platform apps using Flutter and state management (Riverpod).</li>
   <li><strong>Hardware & Forensics:</strong> Researching edge security models and system artifact analysis.</li>
@@ -62,7 +62,7 @@
 </ul>
 </td>
 <td width="33%" valign="top">
-<h3> Long-Term Vision</h3>
+<h3>👑 Long-Term Vision</h3>
 <ul>
   <li><strong>Lead Security Architect:</strong> Designing resilient enterprise infrastructure.</li>
   <li><strong>Open Source Security:</strong> Publishing reusable cryptographic modules and developer tooling.</li>
@@ -72,35 +72,18 @@
 </tr>
 </table>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/highlights?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&items=Security%20Tooling%3A%3ACurrent%20focus%7CEr%20P%20%26%20POS%20Systems%3A%3AIn%20the%20build%20queue%7CApi%20Architecture%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/highlights?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&items=Security%20Tooling%3A%3ACurrent%20focus%7CEr%20P%20%26%20POS%20Systems%3A%3AIn%20the%20build%20queue%7CApi%20Architecture%3A%3AIn%20the%20build%20queue&variant=wow&v=wow-highlights-1&mode=dark" width="100%" alt="Al-haitham profile highlights" />
-</picture>
-
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
 <h2>The Tech Arsenal</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stack?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-stack-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stack?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-stack-1&mode=dark" width="100%" alt="Al-haitham technology stack" />
-</picture>
-
 <div align="center">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
-  <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=py,php,js,dart,html,css,nodejs,flutter,mysql,postgres,git,linux,docker,vscode&theme=dark" />
   <br/><br/>
   <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
   <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" />
-  <img src="https://img.shields.io/badge/Nmap-000000?style=for-the-badge&logo=nmap&logoColor=00FF41" />
+  <img src="https://img.shields.io/badge/Nmap-0D1117?style=for-the-badge&logo=nmap&logoColor=00FF41" />
   <img src="https://img.shields.io/badge/Metasploit-1C1C1C?style=for-the-badge&logo=metasploit&logoColor=white" />
   <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kalilinux&logoColor=white" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
 </div>
 
 <p align="center"><sub>Chosen for security, performance, and real-world reliability.</sub></p>
@@ -109,15 +92,23 @@
 
 <h2>Built, Shipped, Shared</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&repos=pro-haitham%2FSimple-Crypto-Web-App%2Cpro-haitham%2Flogin_system%2Cpro-haitham%2FNotes-App-with-login-CRUD-%2Cpro-haitham%2FWeather-App&variant=wow&v=wow-projects-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&repos=pro-haitham%2FSimple-Crypto-Web-App%2Cpro-haitham%2Flogin_system%2Cpro-haitham%2FNotes-App-with-login-CRUD-%2Cpro-haitham%2FWeather-App&variant=wow&v=wow-projects-1&mode=dark" width="100%" alt="Al-haitham project constellation" />
-</picture>
+<div align="center">
+  <a href="https://github.com/pro-haitham/Simple-Crypto-Web-App">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pro-haitham&repo=Simple-Crypto-Web-App&bg_color=0D1117&title_color=00F0FF&icon_color=00FF41&text_color=C9D1D9&border_color=30363D" />
+  </a>
+  <a href="https://github.com/pro-haitham/login_system">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pro-haitham&repo=login_system&bg_color=0D1117&title_color=00F0FF&icon_color=00FF41&text_color=C9D1D9&border_color=30363D" />
+  </a>
+  <br/>
+  <a href="https://github.com/pro-haitham/Notes-App-with-login-CRUD-">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pro-haitham&repo=Notes-App-with-login-CRUD-&bg_color=0D1117&title_color=00F0FF&icon_color=00FF41&text_color=C9D1D9&border_color=30363D" />
+  </a>
+  <a href="https://github.com/pro-haitham/Weather-App">
+    <img src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=pro-haitham&repo=Weather-App&bg_color=0D1117&title_color=00F0FF&icon_color=00FF41&text_color=C9D1D9&border_color=30363D" />
+  </a>
+</div>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/projects?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&repos=pro-haitham%2FSimple-Crypto-Web-App%2Cpro-haitham%2Flogin_system%2Cpro-haitham%2FNotes-App-with-login-CRUD-%2Cpro-haitham%2FWeather-App&variant=wow-timeline&v=wow-timeline-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/projects?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&repos=pro-haitham%2FSimple-Crypto-Web-App%2Cpro-haitham%2Flogin_system%2Cpro-haitham%2FNotes-App-with-login-CRUD-%2Cpro-haitham%2FWeather-App&variant=wow-timeline&v=wow-timeline-1&mode=dark" width="100%" alt="Al-haitham project launch timeline" />
-</picture>
+<br/>
 
 <table width="100%">
 <tr>
@@ -148,10 +139,12 @@
 
 <h2>Activity & Momentum</h2>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/stats?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-stats-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/stats?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-stats-1&mode=dark" width="100%" alt="Al-haitham GitHub signal" />
-</picture>
+<div align="center">
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api?username=pro-haitham&show_icons=true&hide_border=false&bg_color=0D1117&title_color=00F0FF&icon_color=00FF41&text_color=C9D1D9&border_color=30363D&include_all_commits=true&count_private=true" />
+  <img height="180" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=pro-haitham&layout=compact&hide_border=false&bg_color=0D1117&title_color=00F0FF&text_color=C9D1D9&border_color=30363D&langs_count=8" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=pro-haitham&theme=dark&background=0D1117&border=30363D&ring=00F0FF&fire=00FF41&currStreakNum=00F0FF&sideNums=00FF41&currStreakLabel=00F0FF&sideLabels=C9D1D9&dates=8B949E&stroke=30363D" />
+</div>
 
 <p align="center"><sub>✦ ───────────────────────────── ✦</sub></p>
 
@@ -171,11 +164,11 @@
 <h2>Let's build something resilient.</h2>
 <p>Open to technical collaboration on full-stack projects, cybersecurity tooling, and open-source systems.</p>
 
-<picture>
-  <source media="(prefers-color-scheme: light)" srcset="https://www.gitskins.com/api/section/social?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-social-1&mode=light" />
-  <img src="https://www.gitskins.com/api/section/social?username=pro-haitham&theme=aurora&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F184962713%3Fu%3De30d06ab8c5a3308ebb9c7ee53f5afed8d140bf4%26v%3D4&variant=wow&v=wow-social-1&mode=dark" width="100%" alt="Al-haitham contact links" />
-</picture>
+<p>
+  <a href="https://github.com/pro-haitham"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&color=30363D" /></a>
+  <a href="mailto:you@example.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00FF41&color=30363D" /></a>
+  <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=30363D" /></a>
+</p>
 
-<p><a href="https://github.com/pro-haitham">GitHub Profile</a></p>
-<p><sub>Al-haitham </sub></p>
+<p><sub>Al-haitham · Built for signal, not noise</sub></p>
 </div>
