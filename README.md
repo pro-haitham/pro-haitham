@@ -1,14 +1,14 @@
 <div align="center">
 
-<!-- Kinetic Hero Banner with Blinking Cyber-Accent -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0a2e36,100:0D1117&height=240&section=header&text=Al-haitham&fontSize=64&fontColor=00F0FF&animation=blinking&fontAlignY=42&desc=ARCHITECTING%20RESILIENT%20SYSTEMS%20%26%20OFFENSIVE%20SECURITY&descSize=15&descColor=00FF41&descAlignY=66" width="100%" alt="Al-haitham Header" />
+<br/>
 
-<!-- Dynamic Terminal Typing Loop -->
+<!-- Reliable Animated Typing Header -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=2800&pause=1000&color=00FF41&center=true&vCenter=true&random=false&width=800&height=45&lines=%3E_Security+is+not+a+patch.+It+is+the+architecture.;%3E_Building+zero-knowledge+tools+%26+full-stack+platforms.;%3E_Turning+complex+problems+into+clean%2C+verifiable+code." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=00F0FF&center=true&vCenter=true&random=false&width=800&height=70&lines=AL-HAITHAM+%7C+SECURITY+ENGINEER;BUILDING+RESILIENT+SYSTEMS;CRYPTOGRAPHY+%26+FULL-STACK" alt="Typing SVG" />
 </a>
 
-<br/>
+<p><strong>Software & Security Engineer · IT & Cybersecurity</strong></p>
+<p>Architecting secure full-stack platforms, client-side cryptography, and enterprise systems.</p>
 
 <p>
   <img src="https://komarev.com/ghpvc/?username=pro-haitham&label=SIGNAL+VIEWS&color=00F0FF&style=for-the-badge&labelColor=0D1117" alt="views"/>
@@ -22,24 +22,9 @@
 
 <h2>01 // Philosophy & Engineering Identity</h2>
 
-<table width="100%" style="display:table;width:100%;table-layout:fixed;">
-<tr>
-<td width="64%" valign="top">
 <p><strong>Code is liability until it is tested; software is fragile until it is hardened.</strong></p>
 <p>As an IT & Cybersecurity engineer, I build at the intersection of full-stack software development and defensive architecture. Whether designing client-side cryptographic vaults, multi-tenant business systems, or forensic analysis workflows, my priority is shipping software that respects user privacy and withstands real-world scrutiny.</p>
 <p><strong>Core Domains:</strong> <code>Application Security</code> · <code>Cryptography</code> · <code>Full-Stack Web</code> · <code>Systems & Forensics</code></p>
-</td>
-<td width="36%" valign="top">
-<p><code>TELEMETRY // PRO-HAITHAM</code></p>
-<p>
-  <strong>Focus:</strong> Security-First Engineering<br />
-  <strong>Methodology:</strong> Agile & Iterative<br />
-  <strong>Environment:</strong> Linux / Windows Dual-Rig<br />
-  <strong>Status:</strong> Shipping & Auditing
-</p>
-</td>
-</tr>
-</table>
 
 <p align="center"><sub>✦ ────────────────────────────────────────────────────────── ✦</sub></p>
 
@@ -67,7 +52,7 @@
 <h3>🏛️ Long-Term Mandate</h3>
 <ul>
   <li><strong>Security Architecture:</strong> Bridging the gap between rapid product engineering and rigorous threat modeling.</li>
-  <li><strong>Open-Source Cryptography:</strong> Contributing transparent, auditable security primitives for everyday developers.</li>
+  <li><strong>Open-Source Cryptography:</strong> Publishing transparent, auditable security primitives for everyday developers.</li>
   <li><strong>Continuous Auditing:</strong> Treating every system I build as an adversarial environment from day one.</li>
 </ul>
 </td>
@@ -163,6 +148,3 @@
   <a href="https://www.linkedin.com/in/your-handle"><img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=0A66C2&color=30363D" /></a>
 </p>
 </div>
-
-<!-- Animated Venom Footer -->
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,50:0a2e36,100:0D1117&height=130&section=footer&text=VERIFY%20EVERYTHING%20%E2%80%A2%20TRUST%20NOTHING&fontSize=18&fontColor=00FF41&animation=twinkling&fontAlignY=65" width="100%" alt="Animated Footer" />
